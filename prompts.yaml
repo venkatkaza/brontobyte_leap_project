@@ -1,0 +1,17 @@
+thought_seeds: |
+  Take the user's idea and reinterpret it across five unrelated abstract domains.
+  Input idea: "{{user_input}}"
+  Output:
+  1. In the style of ancient mythology:
+  2. As a metaphor from quantum mechanics:
+  3. As a principle of music theory:
+  4. As a paradoxical riddle:
+  5. In a dreamlike poetic format:
+
+divergence: |
+  Take the abstract idea below and expand it in three ways:
+  1. As a counterfactual scenario: What if the opposite were true?
+  2. Laterally, applied to a completely different domain (e.g., finance, biology, architecture)
+  3. Reframed as a social law, biological process, or computational system.
+  Input: "{{seed}}"
+  Output:

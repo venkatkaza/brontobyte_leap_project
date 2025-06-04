@@ -1,0 +1,102 @@
+[
+  {
+    "concept": "Time as a flowing river",
+    "vector": [
+      -0.4968,
+      0.92939,
+      0.14737,
+      -0.16502,
+      0.68209
+    ]
+  },
+  {
+    "concept": "Consciousness as a nested simulation",
+    "vector": [
+      0.85387,
+      -0.11271,
+      -0.61799,
+      0.38987,
+      0.81936
+    ]
+  },
+  {
+    "concept": "Memory as an echo chamber",
+    "vector": [
+      0.9922,
+      0.6771,
+      0.52264,
+      -0.81745,
+      0.38035
+    ]
+  },
+  {
+    "concept": "Love as a gravitational pull",
+    "vector": [
+      0.68227,
+      0.0326,
+      0.92615,
+      0.37794,
+      -0.03029
+    ]
+  },
+  {
+    "concept": "Truth as a shifting lens",
+    "vector": [
+      -0.77196,
+      0.02973,
+      -0.85327,
+      -0.0882,
+      -0.9353
+    ]
+  },
+  {
+    "concept": "Ego as a biological firewall",
+    "vector": [
+      0.42072,
+      -0.18577,
+      0.32055,
+      0.64237,
+      -0.83727
+    ]
+  },
+  {
+    "concept": "Ideas as viral entities",
+    "vector": [
+      0.14869,
+      0.31682,
+      -0.68189,
+      -0.51377,
+      0.79077
+    ]
+  },
+  {
+    "concept": "History as a fractal spiral",
+    "vector": [
+      -0.2778,
+      0.66422,
+      0.26917,
+      -0.9384,
+      0.75126
+    ]
+  },
+  {
+    "concept": "Language as a compression algorithm",
+    "vector": [
+      -0.52063,
+      -0.56437,
+      -0.83571,
+      -0.52748,
+      0.06905
+    ]
+  },
+  {
+    "concept": "Society as an emergent swarm",
+    "vector": [
+      -0.52356,
+      -0.96851,
+      0.15531,
+      -0.33751,
+      -0.49287
+    ]
+  }
+]
