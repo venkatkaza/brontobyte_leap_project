@@ -1,8 +1,8 @@
 from langgraph.graph import StateGraph
-from nodes.thought_seeds import generate_thought_seeds
-from nodes.divergence import expand_divergence
-from nodes.concept_retrieval import retrieve_concepts
-from nodes.evolution import evolve_idea
+from thought_seeds import generate_thought_seeds
+from divergence import expand_divergence
+from concept_retrieval import retrieve_concepts
+from evolution import evolve_idea
 
 workflow = StateGraph()
 workflow.add_node("thought_seeds", generate_thought_seeds)
