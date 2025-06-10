@@ -1,4 +1,4 @@
-from config.prompts import load_prompt
+from prompts import load_prompt
 from langchain_groq import ChatGroq
 
 llm = ChatGroq(model="mixtral-8x7b-32768")  # You can also use OpenAI, Claude etc.
